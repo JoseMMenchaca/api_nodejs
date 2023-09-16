@@ -1,4 +1,4 @@
-# API REST USUARIOS V1.0.0
+# API REST V1.0.0
 
 ## Comenzando 🚀   
 _Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
